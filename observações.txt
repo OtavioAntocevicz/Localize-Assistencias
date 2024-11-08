@@ -1,0 +1,4 @@
+Isso é um rascunho para o desenvolvimento ofical de uma tela de buscar assistencias autorizadas pela Toyama em seu novo site
+URL da tela: https://loja.toyama.com.br/assistencia-tecnica
+
+obs: O local aonde hospedamos nosso site não aceita arquivos .json, por isso foi desenvolvido em uma variavel.
